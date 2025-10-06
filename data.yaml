@@ -2363,7 +2363,7 @@ stacks:
       Hardware:
         - Framework
         - Fairphone
-         Browser_Desktop:
+      Browser_Desktop:
         - Brave
       Messenger: 
         - Signal
