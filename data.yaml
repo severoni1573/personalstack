@@ -2354,7 +2354,7 @@ stacks:
         - FFMpeg
         - KDEnlive
       Graphics: GIMP
-Sev:
+  Sev:
     id: "sev"            # lowercase-with-dashes, becomes the URL slug
     avatar: "your-avatar.jpg"    # add this file to the repo’s images folder
     name: "sev bonnet"
