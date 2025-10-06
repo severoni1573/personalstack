@@ -2363,9 +2363,7 @@ stacks:
       Hardware:
         - Framework
         - Fairphone
-      OS_Desktop: 
-        - Fedora
-      Browser_Desktop:
+         Browser_Desktop:
         - Brave
       Messenger: 
         - Signal
@@ -2390,8 +2388,6 @@ stacks:
         - ProtonVPN
       Search: 
         - DuckDuckGo 
-      AI: 
-        - Mistral
-        - Leo AI
+  
 
         
