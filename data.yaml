@@ -2356,7 +2356,7 @@ stacks:
       Graphics: GIMP
   Sev:
     id: "sev"            # lowercase-with-dashes, becomes the URL slug
-    avatar: "your-avatar.jpg"    # add this file to the repo’s images folder
+    avatar: "/images/pfp/1728977243293.jpeg"    # add this file to the repo’s images folder
     name: "sev bonnet"
     org: "PhD researcher"
     tools:
